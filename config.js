@@ -44,8 +44,8 @@ config = {
       options: {
         service: 'Mailgun',
         auth: {
-          user: process.env.MAILGUN_SMTP_LOGIN,
-          pass: process.env.MAILGUN_SMTP_PASSWORD
+          user: 'villaluzsam@gmail.com',
+          pass: 'bomb.com'
         }
       }
     },
