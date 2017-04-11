@@ -44,8 +44,8 @@ config = {
       options: {
         service: 'Mailgun',
         auth: {
-          user: 'villaluzsam@gmail.com',
-          pass: 'bomb.com'
+          user: 'postmaster@sandbox84dd363e10b942dd80ab0796ecc44ac5.mailgun.org',
+          pass: '747e2fa7fdf374d033a0bb6cbde2719f'
         }
       }
     },
